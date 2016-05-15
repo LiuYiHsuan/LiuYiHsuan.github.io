@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://austinsuyoyo.github.io/all-archives/index.html</loc>
+    
+    <lastmod>2016-05-15T05:24:32.072Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://austinsuyoyo.github.io/all-tags/index.html</loc>
+    
+    <lastmod>2016-05-15T05:23:57.566Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://austinsuyoyo.github.io/all-categories/index.html</loc>
+    
+    <lastmod>2016-05-15T05:23:29.878Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://austinsuyoyo.github.io/2016/05/15/hello-world/</loc>
     
     <lastmod>2016-05-15T03:35:26.776Z</lastmod>
