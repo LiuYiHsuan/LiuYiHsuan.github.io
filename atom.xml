@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Austin&#39;s Blog</title>
+  <title>Austin &amp; CowCow’s Blog</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://austinsuyoyo.github.io/"/>
+  <link href="http://LiuYiHsuan.github.io/"/>
   <updated>2017-05-19T14:06:10.000Z</updated>
-  <id>http://austinsuyoyo.github.io/</id>
+  <id>http://LiuYiHsuan.github.io/</id>
   
   <author>
-    <name>Austin Su</name>
+    <name>Austin Su &amp; CowCow Liu</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>上海自助旅遊-Day1:浦東機場-陸家嘴、外灘、南京東路</title>
-    <link href="http://austinsuyoyo.github.io/2017/01/11/ShanghaiTravel_Day1/"/>
-    <id>http://austinsuyoyo.github.io/2017/01/11/ShanghaiTravel_Day1/</id>
+    <link href="http://LiuYiHsuan.github.io/2017/01/11/ShanghaiTravel_Day1/"/>
+    <id>http://LiuYiHsuan.github.io/2017/01/11/ShanghaiTravel_Day1/</id>
     <published>2017-01-11T15:09:00.000Z</published>
     <updated>2017-05-19T14:06:10.000Z</updated>
     
@@ -45,23 +45,23 @@
     
     </summary>
     
-      <category term="travel" scheme="http://austinsuyoyo.github.io/categories/travel/"/>
+      <category term="travel" scheme="http://LiuYiHsuan.github.io/categories/travel/"/>
     
     
-      <category term="上海" scheme="http://austinsuyoyo.github.io/tags/%E4%B8%8A%E6%B5%B7/"/>
+      <category term="上海" scheme="http://LiuYiHsuan.github.io/tags/%E4%B8%8A%E6%B5%B7/"/>
     
-      <category term="自助旅遊" scheme="http://austinsuyoyo.github.io/tags/%E8%87%AA%E5%8A%A9%E6%97%85%E9%81%8A/"/>
+      <category term="自助旅遊" scheme="http://LiuYiHsuan.github.io/tags/%E8%87%AA%E5%8A%A9%E6%97%85%E9%81%8A/"/>
     
-      <category term="Shanghai" scheme="http://austinsuyoyo.github.io/tags/Shanghai/"/>
+      <category term="Shanghai" scheme="http://LiuYiHsuan.github.io/tags/Shanghai/"/>
     
   </entry>
   
   <entry>
     <title>上海自助旅遊-行前準備</title>
-    <link href="http://austinsuyoyo.github.io/2016/12/25/ShanghaiTravelPreparation/"/>
-    <id>http://austinsuyoyo.github.io/2016/12/25/ShanghaiTravelPreparation/</id>
+    <link href="http://LiuYiHsuan.github.io/2016/12/25/ShanghaiTravelPreparation/"/>
+    <id>http://LiuYiHsuan.github.io/2016/12/25/ShanghaiTravelPreparation/</id>
     <published>2016-12-24T17:31:00.000Z</published>
-    <updated>2017-05-14T02:06:16.576Z</updated>
+    <updated>2017-05-14T02:06:16.000Z</updated>
     
     <content type="html"><![CDATA[<p>這一關於我們兩個意起到上海自助旅遊的過程。<br><a id="more"></a></p>
 <h2 id="機票"><a href="#機票" class="headerlink" title="機票"></a>機票</h2><p>利用<a href="https://www.skyscanner.com.tw" target="_blank" rel="external">Skyscanner</a>和<a href="https://tw.hellowings.com/" target="_blank" rel="external">HelloWings</a>來選擇最划算的機票，HelloWings有好看的圖表，可以看你訂日期的前後比較票價，原本打算13-16，後來看11-15更便宜就選這時候的票價。<br>當時找到最便宜的是國航(中國國際航空)就訂了，選擇之後直接跳去國航的官網訂票。</p>
@@ -187,19 +187,19 @@
     
     </summary>
     
-      <category term="travel" scheme="http://austinsuyoyo.github.io/categories/travel/"/>
+      <category term="travel" scheme="http://LiuYiHsuan.github.io/categories/travel/"/>
     
     
-      <category term="上海" scheme="http://austinsuyoyo.github.io/tags/%E4%B8%8A%E6%B5%B7/"/>
+      <category term="上海" scheme="http://LiuYiHsuan.github.io/tags/%E4%B8%8A%E6%B5%B7/"/>
     
   </entry>
   
   <entry>
     <title>Palawan0408-0412</title>
-    <link href="http://austinsuyoyo.github.io/2016/05/16/PalawanTravel/"/>
-    <id>http://austinsuyoyo.github.io/2016/05/16/PalawanTravel/</id>
+    <link href="http://LiuYiHsuan.github.io/2016/05/16/PalawanTravel/"/>
+    <id>http://LiuYiHsuan.github.io/2016/05/16/PalawanTravel/</id>
     <published>2016-05-15T17:31:00.000Z</published>
-    <updated>2017-05-19T13:53:21.926Z</updated>
+    <updated>2017-05-19T13:53:20.000Z</updated>
     
     <content type="html"><![CDATA[<p>Our  graduate student travel in Palawan<br><a id="more"></a><br><div class="figure inline" style="width:;"><a class="fancybox" href="http://i.imgur.com/3s3xFr8l.jpg" title="" data-fancybox-group="Pallawan" target="_blank" rel="external"><img class="fig-img" src="http://i.imgur.com/3s3xFr8l.jpg" alt=""></a></div><br><div class="video-container"><iframe src="//www.youtube.com/embed/iqCTaYXbEAg" frameborder="0" allowfullscreen></iframe></div></p>
 <div class="alert danger"><p>No reproduction without permission.</p>
@@ -211,14 +211,14 @@
     
     </summary>
     
-      <category term="travel" scheme="http://austinsuyoyo.github.io/categories/travel/"/>
+      <category term="travel" scheme="http://LiuYiHsuan.github.io/categories/travel/"/>
     
     
-      <category term="LC-A" scheme="http://austinsuyoyo.github.io/tags/LC-A/"/>
+      <category term="LC-A" scheme="http://LiuYiHsuan.github.io/tags/LC-A/"/>
     
-      <category term="Lomo" scheme="http://austinsuyoyo.github.io/tags/Lomo/"/>
+      <category term="Lomo" scheme="http://LiuYiHsuan.github.io/tags/Lomo/"/>
     
-      <category term="Palawan" scheme="http://austinsuyoyo.github.io/tags/Palawan/"/>
+      <category term="Palawan" scheme="http://LiuYiHsuan.github.io/tags/Palawan/"/>
     
   </entry>
   
